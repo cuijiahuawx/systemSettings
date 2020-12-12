@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9057e28f-ae4c-4613-88a3-a71f4be66cf9</dc:identifier>
+        <dc:title>美国真相：民众、政府和市场势力的失衡与再平衡(剖析美国问题，揭露美式资本主义隐藏的制度危机；还原美国真相，看清世界强权如何一步步走向歧途。)</dc:title>
+        <dc:creator opf:file-as="约瑟夫·斯蒂格利茨(Joseph E.Stiglitz)" opf:role="aut">约瑟夫·斯蒂格利茨(Joseph E.Stiglitz)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-01T16:00:00+00:00</dc:date>
+        <dc:publisher>北京华章图文信息有限公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d027716a-3c06-4c9f-a103-6e2a0b388a8b</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;约瑟夫·斯蒂格利茨(Joseph E.Stiglitz)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-30T14:34:28.669231+00:00"/>
+        <meta name="calibre:title_sort" content="美国真相：民众、政府和市场势力的失衡与再平衡(剖析美国问题，揭露美式资本主义隐藏的制度危机；还原美国真相，看清世界强权如何一步步走向歧途。)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

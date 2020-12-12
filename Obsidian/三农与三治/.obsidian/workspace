@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "da1fe8d805315285",
+    "type": "split",
+    "children": [
+      {
+        "id": "c30667e10d5e6090",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "三治问题.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92491d1fbfa64b3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "518c67f145fd9cb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dff0b3d8dea7dbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a32b6481b836d48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "384f2dc2c841d670",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 173
+  },
+  "right": {
+    "id": "66880d0a5d61cacb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c4d65854a3b4b01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d53ba6a371fb5ab7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "三治问题.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7b8ae9e69e68089",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3daaace0f2682911",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "01e2be4e39e3a7b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "三治问题.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "三治问题.md",
+    "西方模式.md",
+    "三农问题.md",
+    "Untitled.md"
+  ]
+}

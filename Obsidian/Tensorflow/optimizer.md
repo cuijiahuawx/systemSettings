@@ -1,0 +1,4 @@
+- 'sgd' or tf.keras.optimizers.SGD(lr=学习率, mooentum=动量参数)
+- ‘adagrad’ or tf.keras.optimizers.Adagrad(lr=学习率)
+- ‘adadelta’ or tf.keras.optimizers.Adadelta(lr=学习率)
+- 'adam' or tf.keras.optimizer.Adam(lr=学习率, beta_1=0.9, beta_2=0.999)

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e18ca722-cdaa-4efd-b2c6-ae43bf7aaf85</dc:identifier>
+        <dc:title>告别百年激进：中国的现代化问题</dc:title>
+        <dc:creator opf:file-as="温铁军" opf:role="aut">温铁军</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-20T16:00:00+00:00</dc:date>
+        <dc:publisher>东方出版社,人民东方出版传媒有限公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01M0WU4JN</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;温铁军&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-30T14:51:50+00:00"/>
+        <meta name="calibre:title_sort" content="告别百年激进：中国的现代化问题"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

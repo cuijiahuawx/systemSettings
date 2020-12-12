@@ -1,0 +1,2 @@
+- tf.keras.regularizers.l1()
+- tf.keras.regularizers.l2()

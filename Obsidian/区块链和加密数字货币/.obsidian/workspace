@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "a3290347bebd7d4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4da33dd374687a88",
+        "type": "split",
+        "children": [
+          {
+            "id": "6aecf713d9de0b8b",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第五章 区块链的应用/第四节 供应链金融.md",
+                "mode": "preview"
+              }
+            },
+            "group": "ecb5aceaeafdc7a4"
+          },
+          {
+            "id": "c2e2cbd54d125e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第五章 区块链的应用/第四节 供应链金融.md",
+                "mode": "source"
+              }
+            },
+            "group": "ecb5aceaeafdc7a4"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56e8495fe1ce0c8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d7a6ff192f6d9ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "328e55f41c1c3aeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "09142aa53d95f0aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274
+  },
+  "right": {
+    "id": "3287e7b9a248bcd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d45b575d1a7166a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa65d644b32e3604",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第五章 区块链的应用/第四节 供应链金融.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54bd3fd0466b2a76",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 195,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "第五章 区块链的应用/第三节 存证.md",
+    "第二节 私人数字货币与央行数字货币.md",
+    "第五章 区块链的应用/第一节 如何设计区块链的应用.md",
+    "第四章 加密数字货币的金融现象/第五节 加密数字货币的会计计量和税收.md",
+    "第四章 加密数字货币的金融现象/第一节 加密数字货币的争议.md",
+    "第五节 加密数字货币的会计计量和税收.md",
+    "第四章 加密数字货币的金融现象/第四节 加密数字货币的减半.md",
+    "第四章 加密数字货币的金融现象/第三节 虚拟货币和传统股市的关系.md",
+    "第四章 加密数字货币的金融现象/第二节 什么决定了加密数字货币的价格.md"
+  ]
+}

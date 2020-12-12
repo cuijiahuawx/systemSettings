@@ -1,0 +1,4 @@
+- relu
+- softmax
+- sigmoid
+- tanh

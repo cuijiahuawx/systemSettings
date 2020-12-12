@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "bd1f723f19dc515c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f547438c468f6bb1",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "obsidian.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7018b17a001d1ebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4c33a99afd1bf60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8e480a6012e3161",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab0776ca0bb795dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cddcd72bb08a132",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 178.5
+  },
+  "right": {
+    "id": "1fb6f660830221b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "20bf82f8532c5f2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db1f42989146c767",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66423a5144cf24bd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4db4f2bcd1e57d87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "a826736953a46fa0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "obsidian.md",
+    "static/巨人.jpg",
+    "O5ZYzkC.jpg",
+    "联盟.jpeg",
+    "606211.jpg",
+    "202012021759.md",
+    "Untitled.md"
+  ]
+}

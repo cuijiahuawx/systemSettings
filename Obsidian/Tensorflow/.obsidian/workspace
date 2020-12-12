@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "5b8b7666ade4cde0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1f9db4feed1f75f",
+        "type": "split",
+        "children": [
+          {
+            "id": "1a2834ebff233434",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "optimizer.md",
+                "mode": "preview"
+              }
+            },
+            "group": "ca933ef837326505"
+          },
+          {
+            "id": "d578aa6d68593439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "optimizer.md",
+                "mode": "source"
+              }
+            },
+            "group": "ca933ef837326505"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a97672fb8a66e2d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "873fd18ff1c6f716",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5181c3b4b4581733",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e91d342e607b935f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4ed6200e30ed773",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e8adf3f41529281b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fbc9ed8ed5e9579",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a2b5ac94c4ca748",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "optimizer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b16ca1015f688c8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bcfb99405fca18df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "22e1e39a3257fcfd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "optimizer.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "optimizer.md",
+    "model.complie.md",
+    "六步法.md",
+    "tf.keras.models.Sequential.md",
+    "鸢尾花数据集.md",
+    "model.fit.md",
+    "metrics.md",
+    "loss.md",
+    "kernel_regularizer.md",
+    "activation.md"
+  ]
+}

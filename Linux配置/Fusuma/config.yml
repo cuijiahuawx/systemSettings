@@ -1,0 +1,28 @@
+swipe:
+  4:
+    up:
+      command: 'xdotool key ctrl+super+Up'
+    down:
+      command: 'xdotool key ctrl+super+Down'
+  3:
+    up:
+      command: 'xdotool key Shift+super+Up'
+    down:
+      command: 'xdotool key Shift+super+Down'
+pinch:
+    in:
+      command: 'xdotool key ctrl+plus'  
+    out:
+      command: 'xdotool key ctrl+minus'
+rotate:
+  3:
+    clockwise:
+      command: 'xdotool key alt+u'
+    counterclockwise:
+      command: 'xdotool key alt+d'
+  4:
+    clockwise:
+      command: 'xdotool key function+F6'
+    counterclockwise:
+      command: 'xdotool key function+F5'
+

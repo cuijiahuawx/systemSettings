@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "25da30de5f476d05",
+    "type": "split",
+    "children": [
+      {
+        "id": "d40527091c147a82",
+        "type": "split",
+        "children": [
+          {
+            "id": "e4870ea806f9c5ee",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "新国新梦.md",
+                "mode": "preview"
+              }
+            },
+            "group": "abbae85a65c8ffa1"
+          },
+          {
+            "id": "aa6e2f0ae51dab10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "新国新梦.md",
+                "mode": "source"
+              }
+            },
+            "group": "abbae85a65c8ffa1"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59ab527f609ddeb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3d6790eef8c41a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e0fa0d5575c1830",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ab700c821f8261f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "60a1d01926d166e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d00175f32fdadb3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "559b95776df4adcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "新国新梦.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "新国新梦.md",
+    "风雨新途.md",
+    "Untitled.md",
+    "百年维新.md",
+    "寻道图强.md",
+    "帝国春秋.md",
+    "大国崛起.md"
+  ]
+}

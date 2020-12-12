@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "6a2dcb673b2b46ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "523f35da4353b7b5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "区块链和加密数字货币/第四章 加密数字货币的金融现象/第一节 加密数字货币的争议.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1459e7134580c292",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a3d8bcb017baa7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca55f606defaae2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2ab63c6cfb9a2aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "604a213b836e7ac0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 166
+  },
+  "right": {
+    "id": "745612243bf5580c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e49c49ab9490047",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c4a64b5b2b79004",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "区块链和加密数字货币/第四章 加密数字货币的金融现象/第一节 加密数字货币的争议.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "043975d6deffbfea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "164acec9417364cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "区块链和加密数字货币/第四章 加密数字货币的金融现象/第一节 加密数字货币的争议.md"
+              }
+            }
+          },
+          {
+            "id": "d8c1d207d241b46e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "087465f33694058c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "区块链和加密数字货币/第四章 加密数字货币的金融现象/第一节 加密数字货币的争议.md",
+    "Untitled.md",
+    "区块链和加密数字货币/第三章 公链之争/第四节 权益证明机制.md",
+    "区块链和加密数字货币/第三章 公链之争/第二节 以太坊的应用.md",
+    "第一节 以太坊.md",
+    "第五节 挖矿设备.md",
+    "区块链和加密数字货币/第一章 比特币和区块链第首个应用/第一节 区块链简介.md",
+    "区块链和加密数字货币/第一章 比特币和区块链第首个应用/第六节 比特币分叉.md",
+    "区块链和加密数字货币/第一章 比特币和区块链第首个应用/第三节 比特币是什么.md",
+    "区块链和加密数字货币/第二章 比特币的共识机制/第一节 工作量证明机制.md"
+  ]
+}

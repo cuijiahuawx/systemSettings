@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56da09ea-d55e-4d74-b616-88f0f24b2248</dc:identifier>
+        <dc:title>货币、权力与人：全球货币与金融体系的民本主义政治经济学 (中国与世界秩序研究丛书)</dc:title>
+        <dc:creator opf:file-as="翟东升" opf:role="aut">翟东升</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-30T16:00:00+00:00</dc:date>
+        <dc:publisher>中国社会科学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B081VCV1RT</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;翟东升&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-30T14:34:28+00:00"/>
+        <meta name="calibre:title_sort" content="货币、权力与人：全球货币与金融体系的民本主义政治经济学 (中国与世界秩序研究丛书)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

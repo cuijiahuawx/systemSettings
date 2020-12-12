@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "141a996bc8cb17ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4c0a1c3153e5a1a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1、课程介绍.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e51c3aafd6afd2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f05f2e41b3227910",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98899eee2b06e52b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "65d527f99205dbce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "48574a30e2bcc5a5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 151
+  },
+  "right": {
+    "id": "958c0a6bf5e5ba9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "23cd5e76279908d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b8694e2e518bfa2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1、课程介绍.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0351313e42a0519",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "270615872a08d7b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1、课程介绍.md"
+              }
+            }
+          },
+          {
+            "id": "857d1aa33f30f797",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c60b800a845022da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2652b668ef27e3c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "1、课程介绍.md",
+    "1.1 开场白.md",
+    "static/Untitled recording.webm",
+    "static/O5ZYzkC.jpg",
+    "2、概述.md",
+    "2.3.1 1958—1976 工业化初期的3次危机及其外资外债背景.md",
+    "2.1.1 战后超级大国地缘政治的不确定性及其冷战特点.md",
+    "2.1 背景和问题.md",
+    "2.3 中国60年4次引进外资演变为9次危机.md",
+    "2.2 1949-1950年新民主主义资本主义的危机：新起点还是旧模式的延续？.md"
+  ]
+}

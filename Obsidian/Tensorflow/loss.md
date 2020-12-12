@@ -1,0 +1,2 @@
+- 'mse' or tf.keras.losses.MeanSquaredError()
+- 'sparse_categorical_crossentropy' or tf.keras.losses.SparseCategoricalCrossentropy(from_logits=False)

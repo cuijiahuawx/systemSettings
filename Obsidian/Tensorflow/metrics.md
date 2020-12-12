@@ -1,0 +1,3 @@
+- 'accuracy' : y_和y都是数值
+- ‘categorical_accuracy’ : y_和y都是独热码
+- ‘sparse_categorical_accuracy’  : y_是数值，y是独热码
